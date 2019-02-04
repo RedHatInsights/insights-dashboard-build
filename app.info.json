@@ -1,6 +1,6 @@
 {
   "app_name": "dashboard",
-  "src_hash": "d32d0379caf4fdb4de3242cba8b1ebb0837ffab8",
+  "src_hash": "dc1bc744c79728094f8e89d35515569067384801",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -351,7 +351,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "373",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-dashboard/builds/488472498"
+    "build_number": "374",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-dashboard/builds/488511169"
   }
 }
