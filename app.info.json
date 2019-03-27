@@ -1,21 +1,21 @@
 {
   "app_name": "dashboard",
-  "src_hash": "32784465972eaa91f832dac8b89906bef1605f9c",
+  "src_hash": "44f7a53bc7c83326a752d8df3cd4f1388b8cbdb7",
   "src_tag": "",
-  "src_branch": "master",
+  "src_branch": "prod-beta",
   "npm_info": {
   "name": "insights-dashboard",
   "version": "0.2.0",
   "dependencies": {
     "@patternfly/patternfly-next": {
-      "version": "1.0.175",
-      "from": "@patternfly/patternfly-next@1.0.175",
-      "resolved": "https://registry.npmjs.org/@patternfly/patternfly-next/-/patternfly-next-1.0.175.tgz"
+      "version": "1.0.101",
+      "from": "@patternfly/patternfly-next@1.0.101",
+      "resolved": "https://registry.npmjs.org/@patternfly/patternfly-next/-/patternfly-next-1.0.101.tgz"
     },
     "@patternfly/react-core": {
-      "version": "1.51.6",
-      "from": "@patternfly/react-core@1.51.6",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-1.51.6.tgz"
+      "version": "1.40.0",
+      "from": "@patternfly/react-core@1.40.0",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-1.40.0.tgz"
     },
     "@patternfly/react-icons": {
       "version": "2.9.3",
@@ -23,9 +23,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-2.9.3.tgz"
     },
     "@red-hat-insights/insights-frontend-components": {
-      "version": "3.33.63",
-      "from": "@red-hat-insights/insights-frontend-components@3.33.63",
-      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.33.63.tgz"
+      "version": "3.33.0",
+      "from": "@red-hat-insights/insights-frontend-components@3.33.0",
+      "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.33.0.tgz"
     },
     "axios": {
       "version": "0.18.0",
@@ -350,8 +350,8 @@
   }
 },
   "travis": {
-    "event_type": "push",
-    "build_number": "428",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-dashboard/builds/503704971"
+    "event_type": "api",
+    "build_number": "450",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-dashboard/builds/512215520"
   }
 }
