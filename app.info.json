@@ -1,11 +1,11 @@
 {
   "app_name": "dashboard",
-  "src_hash": "3a8cd817f6e27e48be84f2698a61fa20d22a2846",
+  "src_hash": "ea2a9ab5fce5c1983f6fb5aac9191fd95a46fc74",
   "src_tag": "",
   "src_branch": "nightly",
   "travis": {
     "event_type": "cron",
-    "build_number": "643",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-dashboard/builds/610475844"
+    "build_number": "645",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-dashboard/builds/610988539"
   }
 }
