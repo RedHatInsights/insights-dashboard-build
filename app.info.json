@@ -5,8 +5,8 @@
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-charts@6.10.4","@patternfly/react-core@4.63.3","@patternfly/react-icons@4.7.11","@patternfly/react-table@4.18.14","@patternfly/react-tokens@4.9.12"],
   "travis": {
-    "event_type": "push",
-    "build_number": "1678",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-dashboard/builds/738108537"
+    "event_type": "api",
+    "build_number": "1681",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/insights-dashboard/builds/192070118"
   }
 }
