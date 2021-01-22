@@ -1,12 +1,12 @@
 {
   "app_name": "dashboard",
-  "src_hash": "071ed0cc7c9ee33ab1e0d0de87ab197684fe16f3",
+  "src_hash": "0d558de8237b20e61ffad4f4bdc2ebbb56155084",
   "src_tag": "",
   "src_branch": "master-stable",
   "patternfly_dependencies": ["@patternfly/patternfly@4.70.2","@patternfly/react-charts@6.12.12","@patternfly/react-core@4.84.4","@patternfly/react-icons@4.7.22","@patternfly/react-table@4.19.45","@patternfly/react-tokens@4.9.22"],
   "travis": {
     "event_type": "push",
-    "build_number": "1808",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/insights-dashboard/builds/213319237"
+    "build_number": "1814",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/insights-dashboard/builds/214120489"
   }
 }
