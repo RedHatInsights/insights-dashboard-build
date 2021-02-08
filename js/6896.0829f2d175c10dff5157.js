@@ -1,0 +1,2 @@
+(self.webpackChunkinsights_dashboard=self.webpackChunkinsights_dashboard||[]).push([[6896],{86896:(s,a,e)=>{"use strict";e.d(a,{Z:()=>r});var n=e(97522),t=e(74806),h=e(680);function r(){var s=n.useContext(t._y);return(0,h.lq)(s),s}}}]);
+//# sourceMappingURL=6896.0829f2d175c10dff5157.js.map
