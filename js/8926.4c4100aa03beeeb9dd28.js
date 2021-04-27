@@ -1,2 +1,2 @@
 (self.webpackChunkinsights_dashboard=self.webpackChunkinsights_dashboard||[]).push([[8926],{48926:e=>{function n(e,n,t,o,r,s,i){try{var u=e[s](i),a=u.value}catch(e){return void t(e)}u.done?n(a):Promise.resolve(a).then(o,r)}e.exports=function(e){return function(){var t=this,o=arguments;return new Promise((function(r,s){var i=e.apply(t,o);function u(e){n(i,r,s,u,a,"next",e)}function a(e){n(i,r,s,u,a,"throw",e)}u(void 0)}))}},e.exports.default=e.exports,e.exports.__esModule=!0}}]);
-//# sourceMappingURL=../sourcemaps/8926.b753c469edb901dcc3bc.js.map
+//# sourceMappingURL=../sourcemaps/8926.b40bf7574ef961b5b21f.js.map
