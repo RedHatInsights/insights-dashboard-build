@@ -1,2 +1,2 @@
 (self.webpackChunkinsights_dashboard=self.webpackChunkinsights_dashboard||[]).push([[1667],{61667:e=>{"use strict";e.exports=function(e,s){return s||(s={}),"string"!=typeof(e=e&&e.__esModule?e.default:e)?e:(/^['"].*['"]$/.test(e)&&(e=e.slice(1,-1)),s.hash&&(e+=s.hash),/["'() \t\n]/.test(e)||s.needQuotes?'"'.concat(e.replace(/"/g,'\\"').replace(/\n/g,"\\n"),'"'):e)}}}]);
-//# sourceMappingURL=../sourcemaps/1667.b40bf7574ef961b5b21f.js.map
+//# sourceMappingURL=../sourcemaps/1667.49982bffd62c35d4ef26.js.map
