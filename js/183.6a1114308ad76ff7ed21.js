@@ -1,0 +1,2 @@
+(self.webpackChunkinsights_dashboard=self.webpackChunkinsights_dashboard||[]).push([[183],{74183:(a,s,c)=>{"use strict";c.d(s,{M:()=>o});var n=c(22122),e=c(81253),r=c(32203),d=c(93264),h=c.n(d),i=c(45697),l=c.n(i),t=["className","children"],o=function(a){var s=a.className,c=a.children,d=(0,e.Z)(a,t);return h().createElement(r.Z,(0,n.Z)({className:"ins-c-dashboard-compound-card ins-c-dashboard__card ".concat(s)},d),c)};o.propTypes={children:l().any,className:l().string}}}]);
+//# sourceMappingURL=../sourcemaps/183.f5106147bf45efddc10c.js.map
