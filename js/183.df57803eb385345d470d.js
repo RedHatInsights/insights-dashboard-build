@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinsights_dashboard=self.webpackChunkinsights_dashboard||[]).push([[183],{74183:(a,s,c)=>{c.d(s,{M:()=>o});var n=c(87462),e=c(45987),r=c(32203),d=c(93264),h=c.n(d),i=c(45697),l=c.n(i),t=["className","children"],o=function(a){var s=a.className,c=a.children,d=(0,e.Z)(a,t);return h().createElement(r.Z,(0,n.Z)({className:"ins-c-dashboard-compound-card ins-c-dashboard__card ".concat(s)},d),c)};o.propTypes={children:l().any,className:l().string}}}]);
+//# sourceMappingURL=../sourcemaps/183.d11f29b6d9485bddb73ae8c1b68af086.js.map
