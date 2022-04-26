@@ -1,10 +1,10 @@
 {
     "dashboard": {
         "entry": [
-            "/apps/dashboard/dashboard.1644576283743.a2388d5542e7ce53252f.js"
+            "/apps/dashboard/dashboard.1650989864117.5e4c68068d2d594b7a69.js"
         ],
         "modules": [
-            "/apps/dashboard/js/336.1644576283671.a2388d5542e7ce53252f.js",
+            "/apps/dashboard/js/336.1650989864043.5e4c68068d2d594b7a69.js",
             "/apps/dashboard/css/336.c283a43929c0828d9cc3.css"
         ]
     }
