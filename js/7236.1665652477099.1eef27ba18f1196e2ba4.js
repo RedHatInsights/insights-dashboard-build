@@ -1,0 +1,1 @@
+(self.webpackChunkinsights_dashboard=self.webpackChunkinsights_dashboard||[]).push([[7236],{97236:()=>{}}]);
