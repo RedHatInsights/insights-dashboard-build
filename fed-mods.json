@@ -1,10 +1,10 @@
 {
     "dashboard": {
         "entry": [
-            "/beta/apps/dashboard/dashboard.1677743608932.cfe9afe001696824cd58.js"
+            "/beta/apps/dashboard/dashboard.1677752902955.a877b906e5d5340aa86d.js"
         ],
         "modules": [
-            "/beta/apps/dashboard/js/679.1677743608843.cfe9afe001696824cd58.js",
+            "/beta/apps/dashboard/js/679.1677752902848.a877b906e5d5340aa86d.js",
             "/beta/apps/dashboard/css/679.3da93de7d009a2c3d01e.css"
         ]
     }
