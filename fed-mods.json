@@ -1,12 +1,12 @@
 {
     "dashboard": {
         "entry": [
-            "/apps/dashboard/dashboard.1682345109129.d98bb48f125b29e70788.js"
+            "/apps/dashboard/dashboard.1682454543580.040f148ea26bf392cad0.js"
         ],
         "modules": [
-            "/apps/dashboard/js/1495.1682345109053.d98bb48f125b29e70788.js",
-            "/apps/dashboard/css/1495.307b37ea7d310b3f3748.css",
-            "/apps/dashboard/js/906.1682345109053.d98bb48f125b29e70788.js",
+            "/apps/dashboard/js/2859.1682454543485.040f148ea26bf392cad0.js",
+            "/apps/dashboard/css/2859.307b37ea7d310b3f3748.css",
+            "/apps/dashboard/js/906.1682454543485.040f148ea26bf392cad0.js",
             "/apps/dashboard/css/906.f3564d1090d6bef8f1dd.css"
         ]
     }
