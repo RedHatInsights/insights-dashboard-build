@@ -1,14 +1,15 @@
 {
     "dashboard": {
         "entry": [
-            "/apps/dashboard/dashboard.1682706899410.ecc9b154a4182ccba0b2.js"
+            "/apps/dashboard/dashboard.1682713817691.18c2cfa812a94dc21db3.js"
         ],
         "modules": [
-            "/apps/dashboard/js/4015.1682706899320.ecc9b154a4182ccba0b2.js",
+            "/apps/dashboard/js/4015.1682713817598.18c2cfa812a94dc21db3.js",
             "/apps/dashboard/css/4015.5a191ce11ca31351425f.css",
-            "/apps/dashboard/js/5833.1682706899320.ecc9b154a4182ccba0b2.js",
+            "/apps/dashboard/js/2588.1682713817598.18c2cfa812a94dc21db3.js",
+            "/apps/dashboard/js/5833.1682713817598.18c2cfa812a94dc21db3.js",
             "/apps/dashboard/css/5833.c29c4d0c091bf5f6e731.css",
-            "/apps/dashboard/js/906.1682706899320.ecc9b154a4182ccba0b2.js",
+            "/apps/dashboard/js/906.1682713817598.18c2cfa812a94dc21db3.js",
             "/apps/dashboard/css/906.f3564d1090d6bef8f1dd.css"
         ]
     }
