@@ -1,14 +1,14 @@
 {
   "app_name": "dashboard",
   "node_version": ">=16.0.0",
-  "src_hash": "0f7afeff6589192f0c6be1f1941ec09b7946cb2a",
+  "src_hash": "d2ded2209884aa4293d88f7cbba5da3037c76c8e",
   "src_tag": "",
   "src_branch": "master",
-  "patternfly_dependencies": ["@patternfly/patternfly@5.2.1","@patternfly/react-charts@7.1.2","@patternfly/react-core@5.2.3","@patternfly/react-icons@5.2.1","@patternfly/react-table@5.1.2","@patternfly/react-tokens@5.2.1"],
+  "patternfly_dependencies": ["@patternfly/patternfly@5.2.1","@patternfly/react-charts@7.1.2","@patternfly/react-core@5.2.3","@patternfly/react-icons@5.2.1","@patternfly/react-table@5.2.4","@patternfly/react-tokens@5.2.1"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-translations@3.2.7","@redhat-cloud-services/frontend-components-utilities@4.0.2","@redhat-cloud-services/frontend-components@4.2.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "2920",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-dashboard/builds/269850346"
+    "build_number": "2927",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-dashboard/builds/269850763"
   }
 }
