@@ -1,19 +1,19 @@
 {
     "dashboard": {
         "entry": [
-            "/apps/dashboard/dashboard.37b9dec6d81c69522c64.js"
+            "/apps/dashboard/dashboard.2ed623afab524253f83b.js"
         ],
         "modules": [
-            "/apps/dashboard/js/1280.37b9dec6d81c69522c64.js",
+            "/apps/dashboard/js/1280.2ed623afab524253f83b.js",
             "/apps/dashboard/css/1280.49976dbda68cf10f3692.css",
-            "/apps/dashboard/js/9552.37b9dec6d81c69522c64.js",
+            "/apps/dashboard/js/9552.2ed623afab524253f83b.js",
             "/apps/dashboard/css/9552.49976dbda68cf10f3692.css",
-            "/apps/dashboard/js/6400.37b9dec6d81c69522c64.js",
-            "/apps/dashboard/js/8287.37b9dec6d81c69522c64.js",
+            "/apps/dashboard/js/6400.2ed623afab524253f83b.js",
+            "/apps/dashboard/js/8287.2ed623afab524253f83b.js",
             "/apps/dashboard/css/8287.e47414a31dd7bf430c55.css",
-            "/apps/dashboard/js/3352.37b9dec6d81c69522c64.js",
+            "/apps/dashboard/js/3352.2ed623afab524253f83b.js",
             "/apps/dashboard/css/3352.a960e1673491fcf63fd1.css",
-            "/apps/dashboard/js/6877.37b9dec6d81c69522c64.js"
+            "/apps/dashboard/js/6877.2ed623afab524253f83b.js"
         ]
     }
 }
