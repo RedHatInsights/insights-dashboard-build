@@ -1,17 +1,1 @@
-{
-    "dashboard": {
-        "entry": [
-            "/apps/dashboard/dashboard.3b12e5a470d5c536a258.js"
-        ],
-        "modules": [
-            "/apps/dashboard/css/5992.49976dbda68cf10f3692.css",
-            "/apps/dashboard/js/7017.3b12e5a470d5c536a258.js",
-            "/apps/dashboard/css/7017.49976dbda68cf10f3692.css",
-            "/apps/dashboard/js/6864.3b12e5a470d5c536a258.js",
-            "/apps/dashboard/js/6650.3b12e5a470d5c536a258.js",
-            "/apps/dashboard/css/6650.e47414a31dd7bf430c55.css",
-            "/apps/dashboard/js/8412.3b12e5a470d5c536a258.js",
-            "/apps/dashboard/js/1018.3b12e5a470d5c536a258.js"
-        ]
-    }
-}
+{"name":"dashboard","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/beta/apps/dashboard/","loadScripts":["dashboard.84aa55ca0622db472aac.js"],"buildHash":"267e902f208cb355f3c817fe79cb4f65"}

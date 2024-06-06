@@ -1,0 +1,1 @@
+(self.webpackChunkdashboard=self.webpackChunkdashboard||[]).push([[1338],{32539:(e,a,s)=>{"use strict";s.r(a),s.d(a,{Flex:()=>d.k,FlexItem:()=>h.B});var d=s(28191),h=s(92298)},38299:()=>{}}]);
